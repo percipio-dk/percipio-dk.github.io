@@ -1,8 +1,6 @@
 #Percipio
 
-##Digitale kortløsninger
-
-Percipio leverer systemudvikling og rådgivning indenfor geografisk IT og data. Percipio er uafhængig af GIS software leverandører og rådgiver alene ud fra behovet, uanset om den bagvedliggende teknologi er ArcGIS, MapInfo eller noget andet. 
+Percipio leverer systemudvikling og rådgivning indenfor geografisk data og IT. Percipio er uafhængig af GIS software leverandører og rådgiver alene ud fra behovet, uanset om den bagvedliggende teknologi er ArcGIS, MapInfo eller noget andet. 
 
 ###Webkort
 
