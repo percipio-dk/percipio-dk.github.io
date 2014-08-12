@@ -2,7 +2,7 @@
 
 ##Digitale kortløsninger
 
-Percipios speciale er systemudvikling og rådgivning indenfor geografisk IT og data. Percipio er uafhængig af GIS software leverandører og rådgiver alene ud fra behovet, uanset om den bagvedliggende teknologi er ArcGIS, MapInfo eller noget andet. 
+Percipio leverer systemudvikling og rådgivning indenfor geografisk IT og data. Percipio er uafhængig af GIS software leverandører og rådgiver alene ud fra behovet, uanset om den bagvedliggende teknologi er ArcGIS, MapInfo eller noget andet. 
 
 ###Webkort
 
@@ -12,9 +12,7 @@ Mange offentlige og private virksomheder har i dag kort på deres hjemmmeside, d
 
 Percipio udfører opsætning og konfigurering af GIS systemer. GIS systemet opsættes efter det konkrete behov. 
 
-opgaver Dataanalyser og datahåndtering
-
-
+I forbindelse med opsætning og konfigurering af GISsystemer eller som separat konsulentydelse tilbydes også GISdataanalyser og GISdatahåndtering. Percipio har leveret konsulent, der arbejdede som GIS data manager i Mærsk Oil i 2013. 
 
 ###Software udvikling
 
@@ -35,5 +33,4 @@ Email: <kontakt@percipio.dk>
 Telefon: 27289969
 Fruebjergvej 3
 2100 København Ø
-
 
