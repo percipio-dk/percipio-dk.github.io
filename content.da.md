@@ -6,6 +6,10 @@ Percipio leverer systemudvikling og rådgivning indenfor geografisk data og IT. 
 
 Mange offentlige og private virksomheder har i dag kort på deres hjemmmeside, der viser kortet placering afdelinger med åbningstider eller lignende. Webkortløsninger leveres både til integration i eksisterende hjemmesider og som nye hjemmesider. 
 
+Webkort kan laves med simpel kortvisning og layout eller med avanceret fx med funktionalitet til at rette i kortet og kortlayout der er designet specielt til at passe til udtrykket på resten af hjemmesiden. 
+
+Herunder ses et simpelt eksempel. 
+
 ###Rådgivning og konsulentydelser
 
 Percipio udfører opsætning og konfigurering af GIS systemer. GIS systemet opsættes efter det konkrete behov. 
