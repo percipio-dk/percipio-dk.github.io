@@ -3,5 +3,18 @@
     font-size: 1.6em;
     /*padding-top: 70px;*/
 }
-#webmap { height: 300px;}
-.percipio_blue { color: #1995dc; }
+
+#webmap {
+    height: 300px;
+}
+
+.webmap-container {
+    padding: 4px;
+    background-color: white;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+}
+
+.percipio_blue {
+    color: #1995dc;
+}
