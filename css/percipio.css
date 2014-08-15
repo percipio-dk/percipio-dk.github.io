@@ -1,5 +1,7 @@
 ﻿body {
-    margin-top: 70px;
+    background-color: #ebebeb;
+    font-size: 1.6em;
+    /*padding-top: 70px;*/
 }
 #webmap { height: 300px;}
 .percipio_blue { color: #1995dc; }
