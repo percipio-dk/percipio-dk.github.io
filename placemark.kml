@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>Highlighted Icon</name>
+    <description>Place your mouse over the icon to see it display the new icon</description>
+    <Style id="highlightPlacemark">
+      <IconStyle>
+	<scale>5</scale> 
+        <Icon>
+          <href>http://www.percipio.dk/logo.gif</href>
+        </Icon>
+	<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+      </IconStyle>
+    </Style>
+    <Style id="normalPlacemark">
+      <IconStyle>
+	<scale>5</scale>        
+	<Icon>
+          <href>http://www.percipio.dk/logo.gif</href>
+        </Icon>
+	<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+      </IconStyle>
+    </Style>
+    <StyleMap id="exampleStyleMap">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normalPlacemark</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#normalPlacemark</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Her bor <![CDATA[<img src="www.percipio.dk/logo.gif" />]]></name>
+      <styleUrl>#exampleStyleMap</styleUrl>
+      <Point>
+        <coordinates>-122.0856545755255,37.42243077405461,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roll over this icon</name>
+      <styleUrl>#exampleStyleMap</styleUrl>
+      <Point>
+        <coordinates>-122.0850000000000,37.42000000000000,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
